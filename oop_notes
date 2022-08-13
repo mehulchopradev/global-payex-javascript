@@ -1,0 +1,6 @@
+Object oriented programming
+
+1. Real world actors ---> Objects (instances) in the system (data RAM)
+2. Real world actor characteristics ---> Attributes of the object in the system (instance attributes)
+3. Real world actor actions ---> Methods / functions being called on the object in the system
+(instance methods)
